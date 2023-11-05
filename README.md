@@ -35,6 +35,13 @@ A Demographics tab containing:
 - Respondent count by age
 - Respondent count by gender and classified by education level
 
+## ScreenShots
+
+![Proje Logosu](images/current_technology_usage.png)
+![Proje Logosu](images/demographics.png)
+![Proje Logosu](images/future_technology_trend.png)
+
+
 ### Dashboard
 
 
