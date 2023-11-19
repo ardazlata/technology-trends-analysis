@@ -35,9 +35,9 @@ In this project, I worked with the Stack Overflow Developer Survey 2019 data to 
 
 ## Screenshots
 
-![Current Technology Usage](images/current_technology_usage.png)
-![Demographics](images/demographics.png)
-![Future Technology Trends](images/future_technology_trend.png)
+![Current Technology Usage](images/1.png)
+![Demographics](images/2.png)
+![Future Technology Trends](images/3.png)
 
 ### Dashboard
 
