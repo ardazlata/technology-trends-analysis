@@ -1,50 +1,47 @@
+# Building a Dashboard with Cognos Dashboard Embedded
 
-# Building a dashboard with Cognos Dashboard Embedded
-
- I used the free lite plan version of Cognos Dashboard Embedded (CDE) through IBM Cloud.
+I developed this dashboard using the free lite plan version of Cognos Dashboard Embedded (CDE) on IBM Cloud.
 
 ---
 
 ## Dataset
 
-[StackOverFlow Developer Survey](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in)
-under a ODbL: Open Database License.
+The dataset used in this project is the [Stack Overflow Developer Survey](https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in) from 2019, available under the ODbL (Open Database License).
 
-##  Overwiev
+## Overview
 
-In this project i continued working with the Stack Overflow Developer Survey 2019 data to create a dashboard. In this dashboard i created the following:
+In this project, I worked with the Stack Overflow Developer Survey 2019 data to create a comprehensive dashboard. The dashboard includes the following sections:
 
-A Current Technology Usage tab containing:
+### Current Technology Usage
 
 - Top 10 Languages
 - Top 10 Databases
 - Platforms
-- Top 10 WebFrames
+- Top 10 Web Frameworks
 
-A Future Technology Trends tab containing:
+### Future Technology Trends
 
 - Top 10 Languages desired for the next year
 - Top 10 Databases desired for the next year
 - Desired platforms for the next year
-- Top 10 WebFrames desired for the next year
+- Top 10 Web Frameworks desired for the next year
 
-A Demographics tab containing:
+### Demographics
 
-- Respondent classified by gender
+- Respondent classification by gender
 - Respondent count for countries
 - Respondent count by age
 - Respondent count by gender and classified by education level
 
-## ScreenShots
+## Screenshots
 
-![Proje Logosu](images/current_technology_usage.png)
-![Proje Logosu](images/demographics.png)
-![Proje Logosu](images/future_technology_trend.png)
-
+![Current Technology Usage](images/current_technology_usage.png)
+![Demographics](images/demographics.png)
+![Future Technology Trends](images/future_technology_trend.png)
 
 ### Dashboard
 
-
-
 #### [Dashboard Link](https://dataplatform.cloud.ibm.com/dashboards/5a650915-db43-4ef7-bd93-8c7bed5aea83/view/6735e12101a91bcf47e1c8e407ca7d037a612d5ababb8303d1827b495c312297f33d17c5c87b4d5cd2100062fbbf1508c0)
+
+Feel free to check out the [dashboard link](https://dataplatform.cloud.ibm.com/dashboards/5a650915-db43-4ef7-bd93-8c7bed5aea83/view/6735e12101a91bcf47e1c8e407ca7d037a612d5ababb8303d1827b495c312297f33d17c5c87b4d5cd2100062fbbf1508c0) to explore the interactive features.
 
